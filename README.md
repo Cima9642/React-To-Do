@@ -8,7 +8,7 @@ Simple React App
 
 ## Getting Started with Create React App
 
-Live Site:[Here](https://to-do-app-k6vh.onrender.com/).
+Live Site: [Here](https://to-do-app-k6vh.onrender.com/).
 
 
 
